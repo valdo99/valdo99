@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Edvaldo (Valdo for friends) <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Full-stack dev from Italy 🇮🇹🍕</h3>
 
-- 🔭 I’m currently working on FinTech marketplace **Node Mongo Next**
+- 🔭 I’m currently working on FinTech marketplace **Girocredito.it**
 
-- 🌱 I’m currently learning **Micros-ervices & micro-frontends**
+- 🌱 I’m currently learning **Micro-services & micro-frontends**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - 📫 How to reach me: **edvaldo99@icloud.com**
 
-- ⚡ What I like to do: **Looking for distruptive tech Start Ups 🧑🏻‍💻, whatching soccer ⚽️, trying out new technologies ⚛️**
+- ⚡ What I like to do: **Looking for distruptive tech Start Ups 🧑🏻‍💻, watching soccer ⚽️, trying out new technologies ⚛️**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
