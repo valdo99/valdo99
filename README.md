@@ -46,5 +46,4 @@
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=valdo99&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdo99&theme=react&layout=compact" />
-  <a href="https://app.daily.dev/valdozzz"><img src="https://api.daily.dev/devcards/1658df05d76a43179cd8e0ca079a922f.png?r=dyf" width="400" alt="Edvaldo's Dev Card"/></a>
-</p>
+<a href="https://app.daily.dev/valdozzz"><img src="https://api.daily.dev/devcards/1658df05d76a43179cd8e0ca079a922f.png?r=oyr" width="400" alt="Edvaldo's Dev Card"/></a></p>
