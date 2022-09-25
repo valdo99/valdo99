@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edvaldo (Valdo for friends) <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Full-stack dev from Italy 🇮🇹🍕</h3>
 
-- 🔭 I’m currently working on FinTech products w/**growishpay.it**
+- 🔭 I’m currently working on FinTech products w/ **growishpay.it**
 
 - 🌱 I’m currently learning **Micro-services & micro-frontends**
 
