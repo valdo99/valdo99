@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Edvaldo (Valdo for friends) <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Full-stack dev from Italy 🇮🇹🍕</h3>
 
-- 🔭 I’m currently working on FinTech products w/ **growishpay.it**
+- 🔭 I’m currently working on SaaS product @ **TextYess.com**
 
-- 🌱 I’m currently learning **Micro-services & micro-frontends**
-
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
-
-- 📫 How to reach me: **edvaldo99@icloud.com**
+- 📫 How to reach me: **edvaldo@textyess.com**
 
 - ⚡ What I like to do: **Looking for distruptive tech Start Ups 🧑🏻‍💻, watching soccer ⚽️, trying out new technologies ⚛️**
 
