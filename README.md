@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Edvaldo (Valdo for friends) <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Full-stack dev from Italy 🇮🇹🍕</h3>
 
-- 🔭 I’m currently working on SaaS product @ **TextYess.com**
+- 🔭 I’m currently working on AI SaaS product @ **TextYess.com**
 
 - 📫 How to reach me: **edvaldo@textyess.com**
 
-- ⚡ What I like to do: **Looking for distruptive tech Start Ups 🧑🏻‍💻, watching soccer ⚽️, trying out new technologies ⚛️**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
