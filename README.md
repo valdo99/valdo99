@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edvaldo<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-- 🔭 I’m currently working on AI SaaS product @ **TextYess.com**
-
 - 📫 How to reach me: **edvaldo@textyess.com**
 
 
