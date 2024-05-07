@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Edvaldo<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Full-stack dev from Italy 🇮🇹🍕</h3>
 
 - 🔭 I’m currently working on AI SaaS product @ **TextYess.com**
 
